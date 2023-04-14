@@ -1,0 +1,1 @@
+BULK INSERT tweet FROM 'E:\tweet\tweet.txt' WITH (FORMAT='CSV')
